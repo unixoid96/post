@@ -5,7 +5,7 @@
       <p>{{post.content}}</p>
     </article>
     <aside>
-      <h3>Posts you might enjoy</h3>
+      <h3>Полный спектр услуг по внедрению приборов учёта энергоресурсов в ваш дом.</h3>
       <ul>
         <li v-for="related in relatedPosts">
           <nuxt-link :to="{name: 'posts-id', params: {id: related.id}}">

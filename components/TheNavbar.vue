@@ -5,7 +5,7 @@
         Nuxt Fundamentals
       </nuxt-link>
 
-      <span class="subheader">A Vue School course</span>
+      <span class="subheader">market-art Проекты теплосчетчиков!</span>
     </div>
   </nav>
 </template>

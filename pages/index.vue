@@ -3,10 +3,10 @@
     <div>
       <logo/>
       <h1 class="title">
-        nuxt-fundamentals
+        Проекты теплосчетчиков!
       </h1>
       <h2 class="subtitle">
-        My gnarly Nuxt.js project
+        Сделаем проект теплосчетчика за короткий срок!
       </h2>
       <div class="links">
         <nuxt-link
@@ -31,10 +31,10 @@ export default {
   },
   head () {
     return {
-      title: 'Home Page 🍕',
+      title: 'market-art',
       meta: [
-        { name: 'twitter:title', content: 'Nuxt Fundamentals by Vue School'},
-        { name: 'twitter:description', content: 'Nuxt + Vue School = 🍕'},
+        { name: 'twitter:title', content: 'Проект установки теплосчётчика '},
+        { name: 'twitter:description', content: 'market-art'},
         { name: 'twitter:image', content: 'https://i.imgur.com/UYP2umJ.png'},
         { name: 'twitter:card', content: 'summary_large_image'}
       ]
